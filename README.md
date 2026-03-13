@@ -72,8 +72,18 @@
 
 </details>
 
-
 <details>
-  <summary>Image Wall</summary>
-  <img src="imagewall/uuh.webp"/>
+  <summary>gif wall</summary>
+
+  <p align="center">
+  <img src="uuh.webp" height="100">
+  <img src="caramelldansen-dance.gif" height="100">
+  <img src="catJam.webp" height="100">
+</p>
+
+<p align="center">  
+<br><br><a href="https://github.com/trillum/trillum/pulls">make a pr and add more gifs!! i will take literally (mostly) everything</a>
+</p>
 </details>
+
+
