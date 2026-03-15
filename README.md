@@ -4,7 +4,7 @@
 
 <p align="center">silly guy on the internet.<br/></p>
 
-<h1 align="center">hi, i'm <a href="">trillum</a>!</h1>
+<h1 align="center">hi, i'm <a href="https://cdn.7tv.app/emote/01FF3R5C30000FF5VVCKV49G6J/4x.avif">trillum</a>!</h1>
 <!-- <p align="center">
   <a href="">
     <img src="" alt="trillum"> will add later
