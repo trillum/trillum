@@ -82,7 +82,7 @@
 </p>
 
 <p align="center">  
-<br><br><a href="https://github.com/trillum/trillum/pulls">make a pr and add more gifs!! i will take literally (mostly) everything</a>
+<br><br><a href="https://github.com/trillum/trillum/pulls">make a pr (or issue with gif url) and add more gifs!! i will take literally (mostly) everything</a>
 </p>
 </details>
 
